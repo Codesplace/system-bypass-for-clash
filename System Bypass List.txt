@@ -1,6 +1,4 @@
 bypass:
-  - "*.bing.com"
-  - "*.microsoft.com"
   # Steam
   - "steampipe.steamcontent.tnkjmec.com" #华为云
   - "st.dl.eccdnx.com" #白山云
@@ -16,7 +14,7 @@ bypass:
   - "client02.pdl.wow.battlenet.com.cn" #网宿云
   - "epicgames-download1-1251447533.file.myqcloud.com"
   - "gamedownloads-rockstargames-com.akamaized.net"
-  #Other
+  # Other
   - "*.gitee.com"
   - "*.snipaste.com"
   - "*.edu.cn"  
